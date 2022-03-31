@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dylanweinzettel
--     I’m 17 years old  
--     👀 I’m interested in programing
--     I’m currently learning how to programing
-- 📫  How to reach me dylannehuenweinzettel@impatrq.com or weinzettel.dylan@hotmail.com
+- Mi nombre es Dylan Weinzettel
+- Tengo 17 años
+- Estoy interesado en la programacion
+- Estoy aprendiendo a programar
+- Podes contactarme por el correo dylannehuenweinzettel@impatrq.com o weinzettel.dylan@hotmail.com
